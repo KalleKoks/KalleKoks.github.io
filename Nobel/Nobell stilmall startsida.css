@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(Bilder/Nobelpris.jpg);
+}
+
+#storbox{
+	background-image:url(Bilder/guld2.jpg);
+	height:100%;
+	width:80%;
+	position:absolute;
+	margin-left:10%;
+}
+
+header{
+	background-image:url(Bilder/wildtextures-old-paper-texture.jpg);
+	height:15%;
+	width:100%;
+	text-align:center;
+	font:Georgia, "Times New Roman", Times, serif;
+	font-size:64px;
+	padding-top:40px;
+}
+
+header#selma{
+	background-image:url(Bilder/bok.jpg);
+	height:15%;
+	width:100%;
+	text-align:center;
+	font:Georgia, "Times New Roman", Times, serif;
+	font-size:64px;
+	padding-top:40px;
+}
+
+nav{
+	background-image:url(Bilder/Vitt%20papper.jpg);
+	width:90%;
+	height:10%;
+	overflow:hidden;
+	margin-left:5%;
+}
+
+ul{
+	font-size:24px;
+	font:"MS Serif", "New York", serif;
+	list-style:none;
+	text-align:center;
+	padding:0;
+	margin:0;
+}
+
+li{
+	line-height:40px;
+	height:100%;
+	width:25%;
+	float:left;
+	padding-top:20px;
+}
+
+a{
+	text-decoration:underline;
+	color:#000;
+}
+
+article{
+	height:60%;
+	width:80%;
+	background-color:#FFF;
+	font:Georgia, "Times New Roman", Times, serif;
+	margin-left:10%;
+	margin-top:15px;
+	padding:5px;
+}
+
+article#start{
+	height:10%;
+	width:70%;
+	background-color:#97A7BB;
+	font:Georgia, "Times New Roman", Times, serif;
+	margin-left:15%;
+	margin-top:15px;
+	padding:5px;
+}
